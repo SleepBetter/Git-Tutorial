@@ -9,6 +9,7 @@ int div (int a, int b){
 } // zusuck
 
 
+
 int main(void){
 	printf("something");
 }
